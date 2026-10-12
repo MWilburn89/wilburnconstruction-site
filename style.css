@@ -28,3 +28,4 @@ footer{background:#3b2a1f;color:#d9c3a8;text-align:center;padding:20px 0;font-si
 .brand-tag{margin-top:3px;padding-left:2px;font-family:Georgia,"Times New Roman",serif;font-style:italic;font-weight:400;font-size:.8rem;letter-spacing:.06em;color:#e8a45a}
 @media (max-width:600px){.brand-tag{font-size:.7rem}}
 .sublabel{margin:-.25rem 0 .6rem;font-style:italic;color:#b5491a;font-weight:600}
+nav a{white-space:nowrap;display:inline-block}
